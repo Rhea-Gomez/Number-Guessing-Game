@@ -1,0 +1,14 @@
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\bin\Debug\net8.0\RandomNumberGuesser.exe
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\bin\Debug\net8.0\RandomNumberGuesser.deps.json
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\bin\Debug\net8.0\RandomNumberGuesser.runtimeconfig.json
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\bin\Debug\net8.0\RandomNumberGuesser.dll
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\bin\Debug\net8.0\RandomNumberGuesser.pdb
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.AssemblyInfoInputs.cache
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.AssemblyInfo.cs
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.csproj.CoreCompileInputs.cache
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.dll
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\refint\RandomNumberGuesser.dll
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.pdb
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\RandomNumberGuesser.genruntimeconfig.cache
+D:\Training\Day3\RandomNumberGuesser\RandomNumberGuesser\obj\Debug\net8.0\ref\RandomNumberGuesser.dll
